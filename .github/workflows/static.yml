@@ -5,7 +5,7 @@
     # Artifact name
     name: Contest Hub
     # Path of the directory containing the static assets.
-    path: https://github.com/AnuragShre/Contest-hub/blob/main/docs/index.html
+    path: https://github.com/AnuragShre/Contest-hub/blob/main/docs/index.html/
     # Duration after which artifact will expire in days.
     retention-days: 200
           
